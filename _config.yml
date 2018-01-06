@@ -17,12 +17,11 @@ name: 冯蕾(Lei Feng)
 profile_img: 
 profile: Lei Feng is a UW graduate student
 social:
-  github:
-  mail: fenglei_1994@hotmail.com
-  linkedin: lei-feng-21951871
+  envelope-o: mailto:fenglei_1994@hotmail.com
+  linkedin: https://www.linkedin.com/in/lei-feng-21951871/
   facebook: https://www.facebook.com/100005717016726
-  instagram: leisomethinglei
-  twitter: LeifengLei
+  instagram: https://www.instagram.com/leisomethinglei/
+  twitter: https://twitter.com/LeiFenglei
   
 
 # Build settings
