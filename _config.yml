@@ -1,5 +1,5 @@
 # Site settings
-email: mailto:fenglei_1994@hotmail.com
+email:fenglei_1994@hotmail.com
 baseurl: ""
 paginate: 5
 paginate_path: "/blog/page-:num"
