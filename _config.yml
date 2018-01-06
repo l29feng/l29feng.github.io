@@ -6,16 +6,16 @@ paginate_path: "/blog/page-:num"
 google_analytics: 
 
 # SEO settings
-title: Trophy
-description: 
+title: FengLei.space
+description: This is Lei's Space
 url: ""
-twitter_username: 
+twitter_username: LeifengLei
 default_img: 
 
 # Profile settings
-name: 
+name: 冯蕾(Lei Feng)
 profile_img: 
-profile: 
+profile: Lei Feng is a UW graduate student
 social:
   github: 
 
