@@ -1,12 +1,12 @@
 # Site settings
-email:fenglei_1994@hotmail.com
+email: fenglei_1994@hotmail.com
 baseurl: ""
 paginate: 5
 paginate_path: "/blog/page-:num"
 google_analytics: 
 
 # SEO settings
-title: Lei's Space
+title: "Lei's Space"
 description: Hello! Welcome to Lei's Space.
 url: ""
 twitter_username: LeifengLei
