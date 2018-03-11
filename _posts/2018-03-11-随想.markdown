@@ -3,7 +3,7 @@ layout: post
 title: "我想成为一个有趣的人"
 date: 2018-03-11
 categories:
-  - 随想
+  随想
 description: 
 image: https://unsplash.it/2000/1200?image=1003
 image-sm: https://unsplash.it/500/300?image=1003
